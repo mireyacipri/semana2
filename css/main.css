@@ -107,7 +107,7 @@
 }
 .skill div .column{
     width: 50%;
-    margin-right: 33pxgit status
+    margin-right: 33px
 }
 .skill div.row{
     display: flex;
@@ -144,6 +144,7 @@
     font-size:36px;
     justify-content: center;
     text-align: center;
+    font-weight: bold;
 
 }   
 .customer{
