@@ -1,0 +1,211 @@
+
+
+.head h1{
+ position: absolute;
+ font-size: 64px;
+ top:50px;
+ left:319px;
+ color: azure;
+ font-weight: 300;
+}
+
+.head h2{
+ position: absolute;
+ font-weight: 200;
+ font-size:36px;
+ top:450px;
+ left:250px;
+ color: azure;
+}
+.head h3{
+    position: absolute;
+    width: 361px;
+    font-size:36px;
+    font-weight: 200;
+    top:490px;
+    left:250px;
+    color: azure;
+   }
+
+.head figure{
+    background-color:#7299FE;
+}
+
+ .head img{
+  width:100%;
+}
+
+.head .me {
+    position: absolute;
+    left: 0px;
+    top: 554px;
+
+}
+.me{
+    width: 100%;
+    height: 100%;
+    background-color:#7299FE;
+    line-height:160%;
+    padding: 20px 0px 30px 0px;
+
+}
+.me p{
+  font-weight: 400;
+  font-size:14;
+  color: white;
+  
+}
+
+.me h2{
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+    padding: 31px 0px 25px 0px;
+    font-family: Helvetica;
+    color: #1D06A7;
+
+}
+
+.me p{
+    padding: 37px 0px 29px 0px;
+    margin-left:70px;
+    margin-right:70px;
+    font-size:20;
+    justify-content: center;
+    
+}
+
+.me button{
+    background-color: #D16FFF;
+    color: white;
+    margin-left:70px;
+    margin-right:70px;
+    border-radius: 5px;
+    height:25px;
+    width:71px;
+    inset-block: inherit;
+    
+}
+
+.skill h3{
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+    padding: 31px 0px 25px 0px;
+    color: #26CC4B;
+
+}
+.skill{
+    
+  background-color: #9122ff;
+  padding: 30px 50px 60px 50px;
+}
+.skill h4{
+     font-size: 18px; 
+     font-weight: 600;
+
+}
+.skill div .column{
+    width: 50%;
+    margin-right: 33pxgit status
+}
+.skill div.row{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.skill .s-bar{
+    background-color: #57EFF9;
+    height: 25px;
+    width: 185px;
+    border-radius: 20px;
+}
+.skill .bar{
+    background-color: white;
+    height: 25px;
+    width: 403px;
+    margin: 3% 0% 7% 0%;
+    border-radius: 20px;
+}
+.portafolio{
+    background-color:#FFD233;
+    line-height:160%;
+    height: 424px;
+    width:100%;
+}
+.portafolio div{
+  Margin: 0px 179px 14px 182px;
+  display: flex;
+  justify-content: space-between;
+}
+.portafolio h3{
+ 
+    color: #00AD84;
+    font-size:36px;
+    justify-content: center;
+    text-align: center;
+
+}   
+.customer{
+    
+    width: 100%;
+    height: 100%;
+    line-height:160%;
+    padding: 20px 0px 30px 0px;
+    background-color: #3F4E62;
+}
+.customer div{
+
+  Margin: 0px 179px 14px 182px;
+  display: flex;
+  justify-content: space-between;
+}
+.customer h3{
+    font-size:36px;
+    justify-content: center;
+    text-align: center;
+    color: #ADFF28;
+}
+.contac{
+    padding: 30px 50px 60px 50px;
+    background-color: #1687A0;
+    text-align: center;
+
+}
+.contac div{
+  margin: auto;
+  margin-bottom: 33px;
+}
+.contac h3{
+    font-size: 35px;
+    color: red;
+    margin-bottom: 35px;
+}
+.contac form{
+    margin:45px
+}
+.contac input{
+  height: 59px;
+  width: 320px;
+  margin-right: 20px;
+  outline-color:red;
+}
+.contac br{
+ height:45px;
+}
+
+.contac textarea{
+    height: 112px;
+    width: 670px;
+    margin-right: 16px;
+}
+
+.contac button{
+    background-color: #233451;
+    height: 49px;
+    width: 167px;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
